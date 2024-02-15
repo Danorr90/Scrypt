@@ -16,11 +16,11 @@ echo """""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 echo Script de nettoyage et de verification des fichiers systeme
 
 echo Debut du nettoyage des disques...
-rem cleanmgr /sagerun:1
+cleanmgr /sagerun:1
 
 echo Lancement de la verification des fichiers systeme...
 echo Veuillez patienter, la verification des fichiers systeme est en cours. Ceci peut prendre plusieurs minutes.
-rem sfc /scannow
+sfc /scannow
 
 echo Lancement de la verification du disque...
 echo O | chkdsk C: /f /r
