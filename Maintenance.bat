@@ -22,6 +22,9 @@ echo Lancement de la verification des fichiers systeme...
 echo Veuillez patienter, la verification des fichiers systeme est en cours. Ceci peut prendre plusieurs minutes.
 sfc /scannow
 
+echo verification de l'image windows
+Dism /Online /Cleanup-Image /ScanHealth
+
 echo Lancement de la verification du disque...
 echo O | chkdsk C: /f /r
 
