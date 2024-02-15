@@ -45,3 +45,29 @@ rem )
 
 exit
 
+rem	 	 ________
+rem		 \______ \ _____    ____   ___________
+rem		  |    |  \\__  \  /    \ /  _ \_  __ \
+rem		  |    `   \/ __ \|   |  (  <_> )  | \/
+rem		 /_______  (____  /___|  /\____/|__|
+rem                 		 \/     \/     \/
+rem
+rem	                     .^. .  _
+rem	                    /: ||`\/ \~  ,
+rem	                , [   &    / \ y'
+rem	                {v':   `\   / `&~-,
+rem	                'y. '    |`   .  ' /
+rem	                \   '  .       , y
+rem	                v .        '     v
+rem	                V  .~.      .~.  V
+rem	                : (  0)    (  0) :
+rem	                 i `'`      `'` j
+rem	                  i     __    ,j
+rem	                   `%`~....~'&
+rem	                <~o' /  \/` \-s,
+rem	                 o.~'.  )(  r  .o ,.
+rem	                o',  %``\/``& : 'bF
+rem	               d', ,ri.~~-~.ri , +h
+rem	               `oso' d`~..~`b 'sos`
+rem	                    d`+ II +`b
+rem	                    i_:_yi_;_y
